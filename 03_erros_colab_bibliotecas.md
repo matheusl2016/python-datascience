@@ -1,7 +1,4 @@
 ``markdown
-# Tratamento de Erros, Google Colab e Bibliotecas
-
-Este módulo abordou boas práticas de desenvolvimento em Python, principalmente voltadas à manipulação de dados, tratamento de exceções e uso do ambiente Google Colab.
 
 ## Tratamento de Erros
 
