@@ -26,7 +26,7 @@ estudante_sorteado = choice(estudantes)
 print(estudante_sorteado)
 
 
-Funções:
+#Funções:
 Funções built-in (embutidas)
 Utilizei funções como sum(), len(), type(), zip() e round() para cálculos rápidos e manipulações de dados.
 
